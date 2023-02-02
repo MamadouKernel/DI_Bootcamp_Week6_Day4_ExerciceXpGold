@@ -6,10 +6,13 @@ package di.atos.exercicexpgoldweek6day4;
 
 import di.atos.exercicexpgoldweek6day4.exercice2.PairOfDice;
 
+
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
+
 public class ExerciceXpGoldWeek6Day4 {
 
     public static void main(String[] args) {
@@ -17,3 +20,10 @@ public class ExerciceXpGoldWeek6Day4 {
         System.out.println(pdc.rolledDicePair());
     }
 }
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */

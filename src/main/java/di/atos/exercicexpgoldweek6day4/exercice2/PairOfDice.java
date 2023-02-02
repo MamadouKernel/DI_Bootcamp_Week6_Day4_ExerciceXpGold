@@ -6,10 +6,13 @@ package di.atos.exercicexpgoldweek6day4.exercice2;
 
 import java.util.Random;
 
+
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
+ *@date 29/01/2023
  */
+
 public class PairOfDice {
     private int die1;
     private int die2;
@@ -47,3 +50,11 @@ public class PairOfDice {
         return diceRolledNbre;
     }
 }
+
+
+
+/**
+ *
+ * @author KONATE-MK
+ *@date 29/01/2023
+ */
